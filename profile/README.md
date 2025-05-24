@@ -38,15 +38,15 @@
 ## 🖼 Preview
 
 **1. Bitwarden Vault Interface**  
-![Vault UI](https://tse2.mm.bing.net/th?id=OIP.HN7eVBnLPl7EKrOdON_JggHaEK&pid=Api)  
+![Vault UI](https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/03/15/bitwarden-logo.jpg)  
 *A clean dashboard for all your sensitive info.*
 
 **2. Mobile App Access**  
-![Mobile Bitwarden](https://tse1.mm.bing.net/th?id=OIP.UzvKUdD3o6PKp-4Te0Mx4gHaHa&pid=Api)  
+![Mobile Bitwarden](https://bitwarden.com/assets/5T77Pi6aU9BMsAkmDdw0Vr/6e9b6a960e4eccb77b201e7364466a04/web-vault.webp?w=1200&fm=jpg&q=80)  
 *Secure vault access on your smartphone.*
 
 **3. Password Generator Tool**  
-![Password Generator](https://tse3.mm.bing.net/th?id=OIP.QvKoYXz6eWVxd1TFUKhZJwHaE7&pid=Api)  
+![Password Generator](https://techcrunch.com/wp-content/uploads/2022/09/ezgif.com-gif-maker1.gif)  
 *Generate unique, secure passwords with a click.*
 
 ---
